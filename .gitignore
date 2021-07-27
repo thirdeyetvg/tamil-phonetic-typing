@@ -1,0 +1,4 @@
+build/
+dist/
+src/__pycache__
+tamil_phonetic_typing_with_screenreader_support.spec

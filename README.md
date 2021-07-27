@@ -15,3 +15,8 @@ Run the exe file and it will be running in the background.
 ctrl+1 - To activate Phonetic Tamil typing
 ctrl+0 - To stop Phonetic Tamil typing and return to default settings
 ctrl+q - To quit the application
+
+## Generate exe
+```
+$ pyinstaller --onefile -w .\src\tamil_phonetic_typing_with_screenreader_support.py
+```
