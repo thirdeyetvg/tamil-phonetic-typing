@@ -1,3 +1,4 @@
+## -*- coding: utf-8 -*-
 import keyboard
 from time import sleep
 from transliterate import azhagi

@@ -6,7 +6,7 @@ Ex: ammA or ammaa for அம்மா
 There are numerous tools and application that are available to make it happen. 
 This application was created mainly to aid Visually Challenged friends to directly type in tamil and allow the screenreaders like [NVDA](https://www.nvaccess.org/) to read as they type.
 
-This is a simple prototype to start with as this was a bigger problem with screenreaders.
+This is a simple prototype to start with. Phonetic typing was bigger problem with screenreaders so we had to create this to handle the issue.
 
 
 ## Usage
