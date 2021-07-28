@@ -22,4 +22,4 @@ ctrl+q - To quit the application
 $ pyinstaller --onefile -w .\src\tamil_phonetic_typing_with_screenreader_support.py
 ```
 
-## NOTE - This application is tested only for windows. Keyboard module behaves differently with Mac.
+**NOTE - This application is tested only for windows. Keyboard module behaves differently with Mac.**
